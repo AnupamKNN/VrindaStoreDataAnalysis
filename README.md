@@ -1,5 +1,8 @@
 # Vrinda Store Data Analysis
 
+### Software & Tools Required
+1. [MS Excel] (https://www.microsoft.com/en-in/microsoft-365/excel)
+
 ### Objective:- 
 The objective of this project was to analyze the sales report for Vrinda Store🏬 to assist them in understanding their customers' requirements &and augment sales next year 
 
